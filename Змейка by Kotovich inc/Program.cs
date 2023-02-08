@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using Змейка_by_Kotovich_inc;
-namespace ConsoleApp1
+
+namespace Змейка_by_Kotovich_inc
 {
     class Program
     {
